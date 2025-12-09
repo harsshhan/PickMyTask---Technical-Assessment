@@ -39,3 +39,12 @@ The project follows a modular MVVM approach:
 
 My experience with Flutter architecture, async streams, API integration and state management helped build this feature efficiently.  
 Understanding MVVM allowed clean separation of UI, logic and data handling, while experience with real device location handling ensured smooth and accurate tracking.
+
+## Screenshot  1
+<img src="assets/readme/output1.jpeg" width="300">
+
+## Screenshot 2
+<img src="assets/readme/output2.jpeg" width="300">
+
+## Google Map
+<img src="assets/readme/map.jpeg" width="300">
